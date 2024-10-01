@@ -1,1 +1,2 @@
 # gitmoduleb
+version 1
