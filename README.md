@@ -1,2 +1,2 @@
 # gitmoduleb
-version 1
+version 2 after tag vb1
